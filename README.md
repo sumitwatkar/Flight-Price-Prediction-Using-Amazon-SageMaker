@@ -18,7 +18,7 @@
 
 **6. Model Deployment**: Deployed the prediction model using Streamlit, offering a user-friendly web interface where users could input flight details and receive price predictions.
 
-## Technologies and Tools Used:
+## Tools and Technologies Used:
 
 * **Libraries**: numpy, pandas, matplotlob, seaborn, scipy, feature-engine, scikit-learn
 * **Machine Learning Algorithm**: Isolation Forest, Extreme Gradient Boosting (XG Boost)

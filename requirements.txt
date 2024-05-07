@@ -1,0 +1,8 @@
+numpy
+pandas
+streamlit
+feature-engine
+scikit-learn
+xgboost
+joblib
+-e .
